@@ -1,0 +1,26 @@
+{
+  "name": "cis197hw4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MechaJoe/cis197hw4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MechaJoe/cis197hw4/issues"
+  },
+  "homepage": "https://github.com/MechaJoe/cis197hw4#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
